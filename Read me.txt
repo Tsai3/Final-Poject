@@ -1,0 +1,15 @@
+<<Read me>>
+
+Based on the the game, the user will arbitrarily import the dot coordinates to be drawed in a 20x20 plot that is mimicing the drawing shown in the game. The user will also need to identify the dots that are connected by the lines.
+The program will export the plot showing the dots and the line for the user to verify if should start over or should process forward with computing the solution.
+
+import number of dots
+import locations of each of dot
+import lines
+show user the graph to verify
+start computing the result
+
+The solution is shown in two ways:
+1). Show in graph where line with arrows are shown to indicate the drawing order
+2). Show in text as the vectors in order
+
